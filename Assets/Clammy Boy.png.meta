@@ -1,0 +1,994 @@
+fileFormatVersion: 2
+guid: af84e906020440d46809fc83e90f07f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6628698070164828693
+    second: Clammy Boy_0
+  - first:
+      213: -7307167660349365000
+    second: Clammy Boy_1
+  - first:
+      213: 5812833551022041313
+    second: Clammy Boy_2
+  - first:
+      213: -3410705481451362814
+    second: Clammy Boy_3
+  - first:
+      213: 1144096867376952063
+    second: Clammy Boy_4
+  - first:
+      213: -5531605495176928797
+    second: Clammy Boy_5
+  - first:
+      213: -4638274601855087902
+    second: Clammy Boy_6
+  - first:
+      213: -7800160101294464478
+    second: Clammy Boy_7
+  - first:
+      213: 9165928554292076206
+    second: Clammy Boy_8
+  - first:
+      213: -515463752120015108
+    second: Clammy Boy_9
+  - first:
+      213: -2568370383242780645
+    second: Clammy Boy_10
+  - first:
+      213: 8522196974233209699
+    second: Clammy Boy_11
+  - first:
+      213: 3158233029054825145
+    second: Clammy Boy_12
+  - first:
+      213: 4074023760933739633
+    second: Clammy Boy_13
+  - first:
+      213: -7378216115618237908
+    second: Clammy Boy_14
+  - first:
+      213: -7224516418806549151
+    second: Clammy Boy_15
+  - first:
+      213: 2141686943718161816
+    second: Clammy Boy_16
+  - first:
+      213: -7506465961248953642
+    second: Clammy Boy_17
+  - first:
+      213: -3067485808439149425
+    second: Clammy Boy_18
+  - first:
+      213: 3046900685683159903
+    second: Clammy Boy_19
+  - first:
+      213: -9221514525653071360
+    second: Clammy Boy_20
+  - first:
+      213: -5447381675470652238
+    second: Clammy Boy_21
+  - first:
+      213: -8526347058441270963
+    second: Clammy Boy_22
+  - first:
+      213: -9053202195734603026
+    second: Clammy Boy_23
+  - first:
+      213: -1572356075565687774
+    second: Clammy Boy_24
+  - first:
+      213: -539554886624873048
+    second: Clammy Boy_25
+  - first:
+      213: -7476542395356947960
+    second: Clammy Boy_26
+  - first:
+      213: 8851132629503463263
+    second: Clammy Boy_27
+  - first:
+      213: -1037389702503178792
+    second: Clammy Boy_28
+  - first:
+      213: -8976588111217320241
+    second: Clammy Boy_29
+  - first:
+      213: -3619920759890127941
+    second: Clammy Boy_30
+  - first:
+      213: 3325987119547934386
+    second: Clammy Boy_31
+  - first:
+      213: -1925650015343582825
+    second: Clammy Boy_32
+  - first:
+      213: 6816695412670950667
+    second: Clammy Boy_33
+  - first:
+      213: -1530479587644223822
+    second: Clammy Boy_34
+  - first:
+      213: -5229337265225077891
+    second: Clammy Boy_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Clammy Boy_0
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1349
+        width: 114
+        height: 252
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed028cb9322204a0800000000000000
+      internalID: -6628698070164828693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_1
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1361
+        width: 120
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f467aa5ab9b79a90800000000000000
+      internalID: -7307167660349365000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_2
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1353
+        width: 128
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8242321555ba050800000000000000
+      internalID: 5812833551022041313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_3
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1307
+        width: 132
+        height: 247
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2062d907f6dbaa0d0800000000000000
+      internalID: -3410705481451362814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_4
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 1315
+        width: 124
+        height: 238
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2f3a80a06a0ef00800000000000000
+      internalID: 1144096867376952063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_5
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 1321
+        width: 122
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1616e1c1acb33b0800000000000000
+      internalID: -5531605495176928797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_6
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 1314
+        width: 159
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea06b103d981afb0800000000000000
+      internalID: -4638274601855087902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_7
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 1312
+        width: 118
+        height: 233
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2222b2307b340c390800000000000000
+      internalID: -7800160101294464478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_8
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1321
+        width: 116
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae503bf47be33f70800000000000000
+      internalID: 9165928554292076206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_9
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 1301
+        width: 122
+        height: 252
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6eb40d274b8d8f0800000000000000
+      internalID: -515463752120015108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_10
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 1283
+        width: 134
+        height: 262
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b102e278eb05b5cd0800000000000000
+      internalID: -2568370383242780645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_11
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1064
+        width: 114
+        height: 253
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b441bdefce44670800000000000000
+      internalID: 8522196974233209699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_12
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1077
+        width: 120
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b208b6f43c44db20800000000000000
+      internalID: 3158233029054825145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_13
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1066
+        width: 128
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cd4f48607d98830800000000000000
+      internalID: 4074023760933739633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_14
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1037
+        width: 148
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c223388c88f4b9990800000000000000
+      internalID: -7378216115618237908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_15
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 1033
+        width: 139
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165fe0f189c5dbb90800000000000000
+      internalID: -7224516418806549151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_16
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 1037
+        width: 133
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89db96c9decc8bd10800000000000000
+      internalID: 2141686943718161816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_17
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 1031
+        width: 162
+        height: 236
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dae13daafca3d790800000000000000
+      internalID: -7506465961248953642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_18
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 1033
+        width: 128
+        height: 236
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cbe62d8e91e65d0800000000000000
+      internalID: -3067485808439149425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_19
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 1029
+        width: 130
+        height: 236
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53f90cc704c84a20800000000000000
+      internalID: 3046900685683159903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_20
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 1033
+        width: 150
+        height: 238
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a08578569960080800000000000000
+      internalID: -9221514525653071360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_21
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 1033
+        width: 175
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc79954a330764b0800000000000000
+      internalID: -5447381675470652238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_22
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 771
+        width: 114
+        height: 254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4949ed56845ca980800000000000000
+      internalID: -8526347058441270963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_23
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 785
+        width: 120
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eead373a1909c5280800000000000000
+      internalID: -9053202195734603026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_24
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 775
+        width: 128
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cda7fda7edd2ae0800000000000000
+      internalID: -1572356075565687774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_25
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 769
+        width: 140
+        height: 238
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5f5e570bd1388f0800000000000000
+      internalID: -539554886624873048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_26
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 775
+        width: 138
+        height: 236
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ad998cd4cfd3890800000000000000
+      internalID: -7476542395356947960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_27
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 751
+        width: 138
+        height: 260
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f4c613b3a85da70800000000000000
+      internalID: 8851132629503463263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_28
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 743
+        width: 148
+        height: 264
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd56a8df837a91f0800000000000000
+      internalID: -1037389702503178792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_29
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 751
+        width: 138
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce95ef3ca0cc6380800000000000000
+      internalID: -8976588111217320241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_30
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 761
+        width: 127
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3dfaf7f3573cdc0800000000000000
+      internalID: -3619920759890127941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_31
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 743
+        width: 140
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6ed24d9a7482e20800000000000000
+      internalID: 3325987119547934386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_32
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 744
+        width: 152
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79168b97387b645e0800000000000000
+      internalID: -1925650015343582825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_33
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 493
+        width: 114
+        height: 252
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d69468c54c99e50800000000000000
+      internalID: 6816695412670950667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_34
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 507
+        width: 122
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2beca728ce4a2cae0800000000000000
+      internalID: -1530479587644223822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clammy Boy_35
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 497
+        width: 128
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7beb87a679ad67b0800000000000000
+      internalID: -5229337265225077891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
