@@ -186,4 +186,4 @@ MonoBehaviour:
   showDebugLogs: 0
   printActionCommentsInConsole: 0
   actionCommentLogging: 0
-  showActiveActionLists: 1
+  showActiveActionLists: 0
