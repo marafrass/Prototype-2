@@ -28,3 +28,12 @@ The main question I wanted to ask was the following:
 - Did the isometric perspective hinder your enjoyment or your ability to explore the game?
 - What things drew your attention?
 
+## PLAYTEST UPDATE
+
+Firstly, I was surprised how far the testers had gone exploring in the game! Almost everyone who played the game mentioned wanting to explore more, or that they had explored beyond the designed map areas. Based on the feedback given in the playtests, I think this is a question of sectioning off the map or clearly signaling what is explorable and what isn't - many had tried moving beyond the ice lake, for example, and had thoughts and comments regarding the "tundra", which in reality only was unedited areas of the terrain! For further development, I'd consider either placing the starting area in the middle of the map and working on building and designing interesting areas throughout the map, or fencing off parts with actual fence models or invisible walls, made to look like a treeline.
+
+That said, most testers agreed that the most enjoyable aspects of the prototype was the dialogue and the general ambience of the game, which was great to hear - it solidified my assumption that the most appealing thing about the game, as I hoped to make it, was seeking out interaction and communicating with the game world, or more specifically, the NPCs. The isometric perspective didn't seem to hinder that, but it was rightfully pointed out that since there's no way of seeing a horizon, terrain would need to be navigated by landmarks and characters - the things the testers uniformly considered the best parts of the prototype. For further exploration of the concept, I think the level design will need to be tackled in screens; each "tile" or terrain has to contain at least one recognizable landmark or geometry for the player to never feel lost - as well as giving them something new to discover every step along the way. 
+
+Mechanically, the game seemed to work great - using the dialogue system will need some tweaks and potentially numpad control, but in general the systems functioned well. 
+
+All in all, I'm fairly happy with the feedback - I'm hoping to potentially revisit this prototype and create something more interesting along the way.
